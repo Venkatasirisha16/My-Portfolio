@@ -269,7 +269,7 @@ main{
 #about .about-col .info-col .icon-list-col .icon-list ul li{
     list-style: none;
     margin: 15px 0;
-    margin-left: -20px;
+    margin-left: 10px;
 }
 #about .about-col .info-col .icon-list-col .icon-list ul li i{
     color: var(--themeColor);
